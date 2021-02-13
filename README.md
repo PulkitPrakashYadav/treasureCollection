@@ -1,1 +1,1 @@
-# treasureCollection
+# CollectingTreasure
